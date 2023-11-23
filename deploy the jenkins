@@ -1,0 +1,2 @@
+https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
+systemctl status jenkins ------we see the staus jenkins running or not
