@@ -1,2 +1,6 @@
 https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
 systemctl status jenkins ------we see the staus jenkins running or not
+*free style job:
+----there is learning,understanding,exploring jenkins and not recommended real time now.
+*pipline as a code:
+----pipline created the groovy and recommended now
