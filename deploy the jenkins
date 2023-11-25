@@ -1,6 +1,11 @@
+Java Runtime Environment (JRE)
+Java Development Kit (JDK)
+Java Virtual Machine(JVM )
 https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
 systemctl status jenkins ------we see the staus jenkins running or not
 *free style job:
 ----there is learning,understanding,exploring jenkins and not recommended real time now.
 *pipline as a code:
-----pipline created the groovy and recommended now
+----pipline created the groovy and recommended 
+note:ls /usr/lib/jvm  --------this for our machine user
+/usr/lib/jvm/java-1.11.0-openjdk-amd64   ---this for oracle11 for jdk when thiss add on the tools  
