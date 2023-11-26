@@ -1,6 +1,6 @@
 Java Runtime Environment (JRE)
 Java Development Kit (JDK)
-Java Virtual Machine(JVM )
+Java Virtual Machine(JVM)
 https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
 systemctl status jenkins ------we see the staus jenkins running or not
 *free style job:
@@ -8,4 +8,9 @@ systemctl status jenkins ------we see the staus jenkins running or not
 *pipline as a code:
 ----pipline created the groovy and recommended 
 note:ls /usr/lib/jvm  --------this for our machine user
-/usr/lib/jvm/java-1.11.0-openjdk-amd64   ---this for oracle11 for jdk when thiss add on the tools  
+/usr/lib/jvm/java-1.11.0-openjdk-amd64   ---this for oracle11 for jdk when thiss add on the tools   
+**/*.war     -----this the artifacts when the file to archieve means we chage the build step
+                                    ---alternatively plugin---
+This step is very important.Like when remove plugin for the mavin then confirmly when your build the project 
+there is an error.so alternatively we go on the ec2 jenkins then download the maven install after refresh the bulid and created.
+step 1:ec2 in cmd apt update && apt install maven -y
