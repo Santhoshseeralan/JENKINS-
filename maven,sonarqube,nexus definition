@@ -1,0 +1,7 @@
+developer are deevelop the code and to fetch the central repository like github and then code fetch like jenkins.
+-----------------Maven-----------------------
+Maven is build the code if any bug after build success then maven is unit test if any error on the code get find it
+-----------------Sonarqube-------------------
+Sonarqube is a code Analysis like code coverage and code quality test.
+-----------------Nexusoss sonatype Artifact--------------
+Nexus is a Repository when finally code file coorect without bug then store the file in nexus because that is safest repository artifact
