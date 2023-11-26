@@ -5,3 +5,17 @@ Maven is build the code if any bug after build success then maven is unit test i
 Sonarqube is a code Analysis like code coverage and code quality test.
 -----------------Nexusoss sonatype Artifact--------------
 Nexus is a Repository when finally code file coorect without bug then store the file in nexus because that is safest repository artifact
+
+-------------------------steps--------------------------
+
+1.jenkins setup
+2.nexus setup
+3.sonarqube setup
+4.security group
+5.plugin
+6.Integrate 
+---Nexus
+---sonarqube
+7.write the pipline script
+setup notification
+
